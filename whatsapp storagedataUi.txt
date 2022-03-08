@@ -9,3 +9,4 @@ Media autodownload
     When roaming(No media)
 Media display
   Android11+ media migration
+Adding Phonepay feature for whatsapp
