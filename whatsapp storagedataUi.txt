@@ -1,11 +1,11 @@
 Manage storage
 Network usage
   Useless Data for calls
+Media Upload quantity
+  Photo Upload quantity
 Media autodownload
   When using mobile data(photos)
   When connected on wifi(AllMedia)
     When roaming(No media)
-Media Upload quantity
-  Photo Upload quantity
 Media display
   Android11+ media migration
